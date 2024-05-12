@@ -6,9 +6,9 @@
 ##关于自行编译  
 1.首先，你需要一个Python环境（废话）  
 2.下载源码  
-3.依次编译其中***除test.py***外的所有py文件  
+3.依次编译其中**除test.py**外的所有py文件  
 4.将编译好的py放进main文件夹中（需自行创建），main主程序放上一级，即  
-'<wget http>'  
-'PPThelper/main/tool.exe'（省略其它程序）  
-5.运行main.exe  
+`PPThelper/main.exe`  
+`PPThelper/main/tool.exe`（省略其它程序）  
+5.运行`main.exe`
 
